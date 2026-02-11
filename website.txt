@@ -12,3 +12,5 @@ Contact us;
 email@example.com
 
 07123456897
+
+added more info and working on updates
